@@ -1,0 +1,38 @@
+_repo: Kunniansa-vankina-b-Romaani-ylioppilaselamasta_71443
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Borg, Annie
+    gutenberg_agent_id: '56239'
+    url: http://www.gutenberg.org/2009/agents/56239
+  - agent_name: Borg, Felix
+    birthdate: 1888
+    deathdate: 1959
+    gutenberg_agent_id: '45701'
+    url: http://www.gutenberg.org/2009/agents/45701
+    wikipedia: https://fi.wikipedia.org/wiki/Felix_Borg
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2023-08-19'
+identifiers:
+  gutenberg: '71443'
+language: fi
+pgterms:marc905: 20230817063053siekiewicz
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bMinerva Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kunniansa vankina : $b Romaani ylioppilaselämästä'
+url: http://www.gutenberg.org/ebooks/71443
