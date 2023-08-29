@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '45701'
     url: http://www.gutenberg.org/2009/agents/45701
     wikipedia: https://fi.wikipedia.org/wiki/Felix_Borg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71443#Kunniansa-vankina-b-Romaani-ylioppilaselamasta
 gutenberg_issued: '2023-08-19'
 identifiers:
   gutenberg: '71443'
